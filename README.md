@@ -9,7 +9,7 @@ Welcome to my repository for the **1-Month Machine Learning Internship** at **Co
 * **Company:** CodeAlpha
 * **Program:** Machine Learning Internship
 * **Duration:** 1 Month
-* **Repository Name:** `CodeAlpha_MachineLearning_Tasks`
+* **Repository Name:** `CodeAlpha_Internshhip`
 * **Core Stack:** Python, Pandas, NumPy, Scikit-Learn, TensorFlow/Keras, Matplotlib, Seaborn
 
 ---
