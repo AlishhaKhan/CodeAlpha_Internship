@@ -70,5 +70,5 @@ Welcome to my repository for the **1-Month Machine Learning Internship** at **Co
 ---
 
 ## ✒️ Author
-**Alisha**  
+**Alisha Khan**  
 Machine Learning Intern @ CodeAlpha
